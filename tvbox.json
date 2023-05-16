@@ -23,16 +23,6 @@
             "ext": "http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"
         },
         {
-            "key": "csp_SP33",
-            "name": "360",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
             "key": "Qtv",
             "name": "腾讯",
             "type": 3,
