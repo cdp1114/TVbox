@@ -19,7 +19,7 @@
             "key": "drpy_js_豆瓣",
             "name": "豆瓣推荐",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "api": "https://gitcode.net/qq_32394351/drpy/-/raw/master/libs/drpy2.min.js",
             "ext": "http://ftp6284928.host108.abeiyun.cn/drpy/js/drpy.js"
         },
         {
